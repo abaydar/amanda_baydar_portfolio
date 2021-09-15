@@ -1,7 +1,8 @@
 import React from 'react'
+import resumeData from './resumeData'
 
 
-function Home(){
+function Home({props}){
 
     return(  
         <section id="home" className="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width={3000} data-natural-height={2000} data-position-y="center">
@@ -11,9 +12,8 @@ function Home(){
             <div className="row home-content__main">
             <h3>Hello There</h3>
             <h1>
-                I am Jonathan Doe. <br />
-                I am a graphic &amp; UI/UX <br />
-                designer based in Somewhere.
+                I am {resumeData.name}. <br />
+                I am a {resumeData.role} based in {resumeData.location}.
             </h1>
             <div className="home-content__buttons">
                 <a href="#works" className="smoothscroll btn btn--stroke">

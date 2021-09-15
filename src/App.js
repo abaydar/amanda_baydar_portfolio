@@ -6,17 +6,18 @@ import Portfolio from './components/portfolio/portfolio';
 import Footer from './components/footer/footer';
 import Contact from './components/contactus/contactus';
 import Blog from './components/blog/blog';
+import resumeData from './components/resumeData';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Home />
+      <Home resumeData={resumeData}/>
       <About />
       <Portfolio />
-      <Footer />
       <Contact />
       <Blog />
+      <Footer />
     </div>
   );
 }
