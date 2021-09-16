@@ -15,193 +15,64 @@ function Portfolio(){
       <div className="masonry__brick">
         <div className="item-folio">
           <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-beetle.jpg" className="thumb-link" title="The Beetle Car" data-size="1050x700">
-              <img src="images/portfolio/beetle.jpg" srcSet="images/portfolio/beetle.jpg 1x, images/portfolio/beetle@2x.jpg 2x" alt="" />
+            <a href="images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" className="thumb-link" title="Tech Networking" data-size="1050x700">
+              <img src="images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" srcSet="images/marvin-meyer-SYTO3xs06fU-unsplash.jpg 1x, images/marvin-meyer-SYTO3xs06fU-unsplash.jpg 2x" alt="" />
               <span className="shadow-overlay" />
             </a>
           </div>
           <div className="item-folio__text">
             <h3 className="item-folio__title">
-              The Beetle
+              Tech Networking
             </h3>
             <p className="item-folio__cat">
-              Web Development
+              React/Redux, Rails API
             </p>
           </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
+          <a href="https://github.com/abaydar/tech_networking_client" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
-          <div className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </div>
         </div> {/* end item-folio */}
       </div> {/* end masonry__brick */}
       <div className="masonry__brick">
         <div className="item-folio">
           <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-lighthouse.jpg" className="thumb-link" title="Lighthouse" data-size="1050x700">
-              <img src="images/portfolio/lighthouse.jpg" srcSet="images/portfolio/lighthouse.jpg 1x, images/portfolio/lighthouse@2x.jpg 2x" alt="" />
+            <a href="images/toa-heftiba-ip9R11FMbV8-unsplash.jpg" className="thumb-link" title="Books" data-size="1050x700">
+              <img src="images/toa-heftiba-ip9R11FMbV8-unsplash.jpg" srcSet="images/toa-heftiba-ip9R11FMbV8-unsplash.jpg 1x, images/toa-heftiba-ip9R11FMbV8-unsplash.jpg 2x" alt="" />
               <span className="shadow-overlay" />
             </a>
           </div>
           <div className="item-folio__text">
             <h3 className="item-folio__title">
-              Lighthouse
+              Book Journey
             </h3>
             <p className="item-folio__cat">
-              Web Design
+              Javascript, Rails API
             </p>
           </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
+          <a href="https://github.com/abaydar/books_client" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
-          <div className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </div>
         </div> {/* end item-folio */}
       </div> {/* end masonry__brick */}
       <div className="masonry__brick">
         <div className="item-folio">
           <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-salad.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/salad.jpg" srcSet="images/portfolio/salad.jpg 1x, images/portfolio/salad@2x.jpg 2x" alt="" />
+            <a href="images/cameron-venti-I1EWTM5mFEM-unsplash.jpg" className="thumb-link" data-size="1050x700">
+              <img src="images/cameron-venti-I1EWTM5mFEM-unsplash.jpg" srcSet="images/cameron-venti-I1EWTM5mFEM-unsplash.jpg 1x, images/cameron-venti-I1EWTM5mFEM-unsplash.jpg 2x" alt="" />
               <span className="shadow-overlay" />
             </a>
           </div>
           <div className="item-folio__text">
             <h3 className="item-folio__title">
-              Salad
+              Race Tracker
             </h3>
             <p className="item-folio__cat">
-              Branding
+              Ruby on Rails
             </p>
           </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
+          <a href="https://github.com/abaydar/running_races_app" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
-        </div> {/* end item-folio */}
-      </div> {/* end masonry__brick */}
-      <div className="masonry__brick">
-        <div className="item-folio">
-          <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-woodcraft.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/woodcraft.jpg" srcSet="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="" />
-              <span className="shadow-overlay" />
-            </a>
-          </div>
-          <div className="item-folio__text">
-            <h3 className="item-folio__title">
-              Woodcraft
-            </h3>
-            <p className="item-folio__cat">
-              Branding
-            </p>
-          </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-            <i className="im im-link" />
-          </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
-        </div> {/* end item-folio */}
-      </div> {/* end masonry__brick */}
-      <div className="masonry__brick">
-        <div className="item-folio">
-          <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-skaterboy.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/skaterboy.jpg" srcSet="images/portfolio/skaterboy.jpg 1x, images/portfolio/skaterboy@2x.jpg 2x" alt="" />
-              <span className="shadow-overlay" />
-            </a>
-          </div>
-          <div className="item-folio__text">
-            <h3 className="item-folio__title">
-              Skaterboy
-            </h3>
-            <p className="item-folio__cat">
-              Web Development
-            </p>
-          </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-            <i className="im im-link" />
-          </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
-        </div> {/* end item-folio */}
-      </div> {/* end masonry__brick */}
-      <div className="masonry__brick">
-        <div className="item-folio">
-          <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-liberty.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/liberty.jpg" srcSet="images/portfolio/liberty.jpg 1x, images/portfolio/liberty@2x.jpg 2x" alt="" />
-              <span className="shadow-overlay" />
-            </a>
-          </div>
-          <div className="item-folio__text">
-            <h3 className="item-folio__title">
-              Liberty
-            </h3>
-            <p className="item-folio__cat">
-              Branding
-            </p>
-          </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-            <i className="im im-link" />
-          </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
-        </div> {/* end item-folio */}
-      </div> {/* end masonry__brick */}
-      <div className="masonry__brick">
-        <div className="item-folio">
-          <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-minimalismo.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/minimalismo.jpg" srcSet="images/portfolio/minimalismo.jpg 1x, images/portfolio/minimalismo@2x.jpg 2x" alt="" />
-              <span className="shadow-overlay" />
-            </a>
-          </div>
-          <div className="item-folio__text">
-            <h3 className="item-folio__title">
-              Minimalismo
-            </h3>
-            <p className="item-folio__cat">
-              Web Design
-            </p>
-          </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-            <i className="im im-link" />
-          </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
-        </div> {/* end item-folio */}
-      </div> {/* end masonry__brick */}
-      <div className="masonry__brick">
-        <div className="item-folio">
-          <div className="item-folio__thumb">
-            <a href="images/portfolio/gallery/g-shutterbug.jpg" className="thumb-link" data-size="1050x700">
-              <img src="images/portfolio/shutterbug.jpg" srcSet="images/portfolio/shutterbug.jpg 1x, images/portfolio/shutterbug@2x.jpg 2x" alt="" />
-              <span className="shadow-overlay" />
-            </a>
-          </div>
-          <div className="item-folio__text">
-            <h3 className="item-folio__title">
-              Lady Shutterbug
-            </h3>
-            <p className="item-folio__cat">
-              Branding
-            </p>
-          </div>
-          <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-            <i className="im im-link" />
-          </a>
-          <span className="item-folio__caption">
-            <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-          </span>
         </div> {/* end item-folio */}
       </div> {/* end masonry__brick */}
     </div>

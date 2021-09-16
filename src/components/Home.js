@@ -2,10 +2,10 @@ import React from 'react'
 import resumeData from './resumeData'
 
 
-function Home({props}){
+function Home(){
 
     return(  
-        <section id="home" className="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width={3000} data-natural-height={2000} data-position-y="center">
+        <section id="home" className="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/robynne-hu-HOrhCnQsxnQ-unsplash.jpg" data-natural-width={3000} data-natural-height={2000} data-position-y="center">
         <div className="overlay" />
         <div className="shadow-overlay" />
         <div className="home-content">
