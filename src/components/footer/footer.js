@@ -6,28 +6,15 @@ function Footer(){
   <div className="row">
     <div className="col-full">
       <div className="footer-logo">
-        <a className="footer-site-logo" href="#0"><img src="images/logo.png" alt="Homepage" /></a>
       </div>
       <ul className="footer-social">
-        <li><a href="#0">
-            <i className="im im-facebook" aria-hidden="true" />
-            <span>Facebook</span>
+        <li><a href="https://www.linkedin.com/in/amanda-baydar-387651a0/">
+            <i className="im im-linkedin" aria-hidden="true" />
+            <span>LinkedIn</span>
           </a></li>
-        <li><a href="#0">
-            <i className="im im-twitter" aria-hidden="true" />
-            <span>Twitter</span>
-          </a></li>
-        <li><a href="#0">
-            <i className="im im-instagram" aria-hidden="true" />
-            <span>Instagram</span>
-          </a></li>
-        <li><a href="#0">
-            <i className="im im-behance" aria-hidden="true" />
-            <span>Behance</span>
-          </a></li>
-        <li><a href="#0">
-            <i className="im im-pinterest" aria-hidden="true" />
-            <span>Pinterest</span>
+        <li><a href="https://abay1022.medium.com/">
+            <i className="im im-blog" aria-hidden="true" />
+            <span>Medium</span>
           </a></li>
       </ul>
     </div>
