@@ -16,6 +16,10 @@ function Footer(){
             <i className="im im-blog" aria-hidden="true" />
             <span>Medium</span>
           </a></li>
+        <li><a href="https://www.github.com/abaydar/">
+          <i className="im im-github" aria-hidden="true" />
+          <span>GitHub</span>
+        </a></li>
       </ul>
     </div>
   </div>
