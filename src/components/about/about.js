@@ -13,12 +13,9 @@ function About(){
   <div className="row about-content">
     <div className="col-six tab-full left">
       <h3>Hi There!</h3>
-      <p>I'm a recent graduate of the Flatiron School Software Engineering Program.  I decided to enroll in Flatiron in November 2020, after working in the semiconductor industry for about 7 years.  When I first started my career in chemistry, I was so excited - it seemed so interesting and challenging.  As the years passed, I began to become disheartened about how far my career could progress solely with a bachelors degree.</p>
+      <p>I'm a recent graduate of the Flatiron School Software Engineering Program.  My first exposure to coding was writing a macro in VBA to facilitate manipulation of data for a report that was being generated on a daily basis.  Before the macro, it was very tedious, repetitive work to move data around and build the same charts.  With the macro, a task that once took 5-10 minutes was now done with the click of a button.  After this experience, I knew I had to pursue coding.  I'm very proud of all I have accomplished and learned throughout the program at Flatiron.</p>
       <p>
-        One of my college friends, who was also a chemistry major, did a coding bootcamp back in 2018.  I remember her journey and how rewarded she felt.  This is when the seed was planted - I wanted to see what coding was about.  One of my first exposures to coding was writing a macro in VBA to simplify the data output for one of our instruments, so reports could be compiled in a timely manner.  After this, I was hooked. I loved the combination of logic and creativity, in addition to that rewarding feeling you get when your code finally works the way you envisioned.
-      </p>
-      <p>
-        Outside of school and work, I love to exercise.  Being a D1 rower in college, I learned many lessons about pushing yourself to your limits and how your mind can be your worst enemy in an "uncomfortable" situation.  Upon graduating, I sought out running to continue to challenge myself and have completed 4 marathons since.  Some other hobbies of mine are reading, strategic boardgaming, and (of course) binge watching shows.
+        Outside of school and work, I love to exercise.  Being a D1 rower in college, I learned about pushing yourself to your limits and how your mind can be your worst enemy in "uncomfortable" situations, whether it be in sports or your job.  Upon graduating, I sought out running to continue to challenge myself and have completed 4 marathons since.  Some other hobbies of mine include reading, strategic boardgaming, and (of course) binge watching shows.
       </p>
     </div>
     <div className="col-six tab-full right">
