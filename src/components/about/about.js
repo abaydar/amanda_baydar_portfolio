@@ -62,7 +62,23 @@ function About(){
             <h5>Microscopist/Spectroscopist</h5>
           </div>
           <div className="timeline__desc">
-            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+            <ul>
+              <li>
+                Run up to 5 different instruments and interpret data in timely manner to deliver to team to meet product shipment deadlines
+              </li>
+              <li>
+              Wrote macros to to facilitate processes involving data manipulation - decreased total time spent on tasks up to 90%
+              </li>
+              <li>
+              Collaborate with R&D on methodology to improve timing and accuracy of analytical results
+              </li>
+              <li>
+              Trained 70+ tech ops employees about electronics industry, company purpose and strategy so they understood the importance of their role within the company and enhance performance
+              </li>
+              <li>
+              Volunteer member of the Emergency Response Team on site - attend trainings monthly for fire, hazmat, medical, and confined space rescue
+              </li>
+            </ul>
           </div>
         </div> 
         <div className="timeline__block">
@@ -73,7 +89,14 @@ function About(){
             <h5>Quality Control Technician</h5>
           </div>
           <div className="timeline__desc">	
-            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+            <ul>
+              <li>
+              Led QC team to improve timing and delivery of metal organic product testing and analysis by 60 days 
+              </li>
+              <li>
+              Led safety and security while working with pyrophoric chemicals in an inert environment
+              </li>
+            </ul>
           </div>
         </div> 
       </div> 
@@ -88,7 +111,17 @@ function About(){
             <h5>Chemistry Technician</h5>
           </div>
           <div className="timeline__desc">
-            <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+            <ul>
+              <li>
+                Contribute to the expansion of R&D projects in the Novel Technologies team by performing synthetic, process, and QC tasks efficiently and methodically
+              </li>
+              <li>
+                Prepared and gave bi-weekly technical presentations on lab work and progress
+              </li>
+              <li>
+                Key User for new ERP system - trained and certified up to 20 end users and remained a point of contact for any future issues
+              </li>
+            </ul>
           </div>
         </div>
       </div>
