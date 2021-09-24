@@ -27,7 +27,7 @@ function Portfolio(){
               React/Redux, Rails API
             </p>
           </div>
-          <a href="https://github.com/abaydar/tech_networking_client" className="item-folio__project-link" title="Project link">
+          <a href="https://wizardly-yonath-16fb12.netlify.app/" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
         </div> {/* end item-folio */}
