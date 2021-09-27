@@ -48,7 +48,7 @@ function Portfolio(){
               Javascript, Rails API
             </p>
           </div>
-          <a href="https://github.com/abaydar/books_client" className="item-folio__project-link" title="Project link">
+          <a href="https://upbeat-mcclintock-08a2d1.netlify.app/" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
         </div> {/* end item-folio */}
