@@ -69,7 +69,7 @@ function Portfolio(){
               Ruby on Rails
             </p>
           </div>
-          <a href="https://github.com/abaydar/running_races_app" className="item-folio__project-link" title="Project link">
+          <a href="https://hidden-everglades-97738.herokuapp.com/" className="item-folio__project-link" title="Project link">
             <i className="im im-link" />
           </a>
         </div> {/* end item-folio */}

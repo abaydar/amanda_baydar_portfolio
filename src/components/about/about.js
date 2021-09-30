@@ -22,28 +22,28 @@ function About(){
       <h3>I've Got Some skills.</h3>
       <ul className="skill-bars">
         <li>
-          <div className="progress percent95"><span>95%</span></div>
+          <div className="progress percent100"></div>
           <strong>Ruby</strong>
         </li>
         <li>
-          <div className="progress percent95"><span>95%</span></div>
+          <div className="progress percent100"></div>
           <strong>JavaScript</strong>
         </li>
         <li>
-          <div className="progress percent90"><span>90%</span></div>
-          <strong>Rails</strong>
+          <div className="progress percent100"></div>
+          <strong>Ruby on Rails</strong>
         </li>
         <li>
-          <div className="progress percent90"><span>90%</span></div>
+          <div className="progress percent100"></div>
           <strong>React</strong>
         </li>
         <li>
-          <div className="progress percent80"><span>80%</span></div>
+          <div className="progress percent100"></div>
           <strong>CSS, bootstrap, tailwind</strong>
         </li>   
         <li>
-          <div className="progress percent75"><span>75%</span></div>
-          <strong>SQLite</strong>
+          <div className="progress percent100"></div>
+          <strong>SQLite, PostgreSQL</strong>
         </li>   
       </ul>
     </div>
