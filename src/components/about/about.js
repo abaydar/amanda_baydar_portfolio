@@ -15,7 +15,7 @@ function About(){
       <h3>Hi There!</h3>
       <p>I'm a recent graduate of the Flatiron School Software Engineering Program.  My first exposure to coding was writing a macro in VBA to facilitate manipulation of data for a report that was being generated on a daily basis.  Before the macro, it was very tedious, repetitive work to move data around and build the same charts.  With the macro, a task that once took 5-10 minutes was now done with the click of a button.  After this experience, I knew I had to pursue coding.  I'm very proud of all I have accomplished and learned throughout the program at Flatiron.</p>
       <p>
-        Outside of school and work, I love to exercise.  Being a D1 rower in college, I learned about pushing yourself to your limits and how your mind can be your worst enemy in "uncomfortable" situations, whether it be in sports or your job.  Upon graduating, I sought out running to continue to challenge myself and have completed 4 marathons since.  Some other hobbies of mine include reading, strategic boardgaming, and (of course) binge watching shows.
+        Outside of school and work, I love to exercise.  Being a D1 rower in college, I learned about pushing yourself to your limits and how your mind can be your worst enemy in "uncomfortable" situations, whether it be in sports or your job.  Upon graduating, I sought out running to continue to challenge myself and have completed 5 marathons since.  Some other hobbies of mine include reading, strategic boardgaming, and (of course) binge watching shows.
       </p>
     </div>
     <div className="col-six tab-full right">
