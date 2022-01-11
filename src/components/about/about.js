@@ -39,11 +39,15 @@ function About(){
         </li>
         <li>
           <div className="progress percent100"></div>
+          <strong>Node.js</strong>
+        </li>
+        <li>
+          <div className="progress percent100"></div>
           <strong>CSS, bootstrap, tailwind</strong>
         </li>   
         <li>
           <div className="progress percent100"></div>
-          <strong>SQLite, PostgreSQL</strong>
+          <strong>SQLite, PostgreSQL, MongoDB</strong>
         </li>   
       </ul>
     </div>
