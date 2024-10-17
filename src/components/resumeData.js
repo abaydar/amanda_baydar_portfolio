@@ -1,6 +1,6 @@
 let resumeData = {
     "name": "Amanda Baydar",
     "role": "Full Stack Web Developer",
-    "location": "Somerville, NJ"
+    "location": "Jersey City, NJ"
     }
   export default resumeData
