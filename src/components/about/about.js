@@ -13,7 +13,11 @@ function About(){
   <div className="row about-content">
     <div className="col-six tab-full left">
       <h3>Hi There!</h3>
-      <p>I'm a recent graduate of the Flatiron School Software Engineering Program.  My first exposure to coding was writing a macro in VBA to facilitate manipulation of data for a report that was being generated on a daily basis.  Before the macro, it was very tedious, repetitive work to move data around and build the same charts.  With the macro, a task that once took 5-10 minutes was now done with the click of a button.  After this experience, I knew I had to pursue coding.  I'm very proud of all I have accomplished and learned throughout the program at Flatiron.</p>
+      <p>With a strong foundation in the semiconductor industry, where I spent several years working with chemicals for computer chip manufacturing, I made a pivotal shift into software development to engage more directly with the tech landscape. My background in chemistry equips me with robust technical and analytical skills.</p>
+
+      <p>For the past 2+ years, I’ve been refining my expertise at a media company by contributing to the marketing tech team in building consumer-facing pages.  I thrive in Agile environments, collaborating closely with cross-functional teams to deliver high-quality solutions efficiently. My skill set includes both front-end and back-end development, with proficiency in JavaScript, React, Next.js and Node.js. Additionally, I have hands-on experience with WordPress, Piano (a paywall service), AWS, and CI/CD tools such as Jenkins and Travis, as well as conducting code reviews.</p>
+
+      <p>I am passionate about leveraging my diverse background to create innovative and user-centric solutions in the tech industry.</p>
       <p>
         Outside of school and work, I love to exercise.  Being a D1 rower in college, I learned about pushing yourself to your limits and how your mind can be your worst enemy in "uncomfortable" situations, whether it be in sports or your job.  Upon graduating, I sought out running to continue to challenge myself and have completed 5 marathons since.  Some other hobbies of mine include reading, strategic boardgaming, and (of course) binge watching shows.
       </p>
@@ -23,15 +27,11 @@ function About(){
       <ul className="skill-bars">
         <li>
           <div className="progress percent100"></div>
-          <strong>Ruby</strong>
+          <strong>TypeScript/JavaScript</strong>
         </li>
         <li>
           <div className="progress percent100"></div>
-          <strong>JavaScript</strong>
-        </li>
-        <li>
-          <div className="progress percent100"></div>
-          <strong>Ruby on Rails</strong>
+          <strong>NextJS</strong>
         </li>
         <li>
           <div className="progress percent100"></div>
@@ -43,11 +43,15 @@ function About(){
         </li>
         <li>
           <div className="progress percent100"></div>
-          <strong>CSS, bootstrap, tailwind</strong>
+          <strong>Wordpress</strong>
+        </li>
+        <li>
+          <div className="progress percent100"></div>
+          <strong>Git</strong>
         </li>   
         <li>
           <div className="progress percent100"></div>
-          <strong>SQLite, PostgreSQL, MongoDB</strong>
+          <strong>HTML, CSS</strong>
         </li>   
       </ul>
     </div>
@@ -58,17 +62,47 @@ function About(){
     </div>
     <div className="col-six tab-full left">
       <div className="timeline">
+      <div className="timeline__block">
+          <div className="timeline__bullet" />
+          <div className="timeline__header">
+
+            <p className="timeline__timeframe">February 2022 - present</p>
+            <h3>Fortune Media</h3>
+            <h5>Web Developer</h5>
+          </div>
+          <div className="timeline__desc">
+            <ul>
+              <li>
+              Currently leading the replatforming of our codebase to integrate multiple business units, managing deliverables in a fast-paced environment to ensure future rapid delivery of stakeholder requirements.              </li>
+              <li>
+              Successfully transitioned the site’s architecture from JavaScript to TypeScript using Next.js, improving code maintainability and reducing bugs.              </li>
+              <li>
+              Built dynamic web pages using reusable blocks in WordPress with a headless CMS and Next.js as the frontend.              </li>
+              <li>
+              Integrated Braintree into our codebase, facilitating seamless purchases of Fortune 500 lists directly from our site, replacing a cumbersome third-party solution.
+              </li>
+              <li>
+              Contributed to the redesign and implementation of our paywall system, enhancing user experience and streamlining access management.
+              </li>
+              <li>
+              Fostered a collaborative development culture through pair programming, enhancing team productivity and knowledge sharing across cross-functional teams.
+              </li>
+            </ul>
+          </div>
+        </div> 
+
         <div className="timeline__block">
           <div className="timeline__bullet" />
           <div className="timeline__header">
-            <p className="timeline__timeframe">September 2018 - Present</p>
+
+            <p className="timeline__timeframe">September 2018 - February 2022</p>
             <h3>EMD Electronics</h3>
             <h5>Microscopist/Spectroscopist</h5>
           </div>
           <div className="timeline__desc">
             <ul>
               <li>
-                Run up to 5 different instruments and interpret data in timely manner to deliver to team to meet product shipment deadlines
+              Run up to 5 different instruments and interpret data in timely manner to deliver to team to meet product shipment deadlines
               </li>
               <li>
               Wrote macros to to facilitate processes involving data manipulation - decreased total time spent on tasks up to 90%
