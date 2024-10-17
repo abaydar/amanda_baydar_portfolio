@@ -90,7 +90,6 @@ function About(){
           </div>
         </div> 
 
-        <div className="col-six tab-full right">
         <div className="timeline">
         <div className="timeline__block">
           <div className="timeline__bullet" />
@@ -120,7 +119,6 @@ function About(){
             </ul>
           </div>
         </div> 
-        </div>
         </div>
         </div>
         </div>
