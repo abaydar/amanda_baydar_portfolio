@@ -7,7 +7,7 @@ function About(){
     <div className="col-full text-center">
       <h3>About</h3>
       <h1>More About Me</h1>
-      <p className="lead">Results-driven web developer with experience in both frontend and backend development, specializing in TypeScript and React/Next.js. My background in chemistry equips me with strong technical and analytical skills, fostering a detail-oriented approach to problem-solving. Proven ability to thrive in collaborative, fast-paced environments, demonstrating a history of seeking out and executing challenges.</p>
+      <p className="lead">Experienced in frontend and backend development with a focus in Ruby, Rails, Javascript, and React.  Coming from a background in chemistry, I bring strong technical and analytical skills along with experience working in a team setting.</p>
     </div>
   </div>
   <div className="row about-content">
@@ -91,6 +91,8 @@ function About(){
           </div>
         </div> 
 
+        <div className="col-six tab-full right">
+        <div className="timeline">
         <div className="timeline__block">
           <div className="timeline__bullet" />
           <div className="timeline__header">
@@ -119,6 +121,13 @@ function About(){
             </ul>
           </div>
         </div> 
+        </div>
+        </div>
+        </div>
+        </div>
+
+        <div className="col-six tab-full left">
+        <div className="timeline">
         <div className="timeline__block">
           <div className="timeline__bullet" />
           <div className="timeline__header">
