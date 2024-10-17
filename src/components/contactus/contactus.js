@@ -19,17 +19,9 @@ function Contact (){
       <h4 className="h06">Email</h4>
       <p>amandabaydar@gmail.com<br />
       </p>
-      <h4 className="h06">Address</h4>
-      <p>
-        17 Division Street<br />
-        Apt 301<br />
-        Somerville, NJ<br />
-        08876 US
-      </p>
     </div>
   </div>
 </section>
-
     )
 }
 
