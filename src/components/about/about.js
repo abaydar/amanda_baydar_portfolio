@@ -7,14 +7,13 @@ function About(){
     <div className="col-full text-center">
       <h3>About</h3>
       <h1>More About Me</h1>
-      <p className="lead">Experienced in frontend and backend development with a focus in Ruby, Rails, Javascript, and React.  Coming from a background in chemistry, I bring strong technical and analytical skills along with experience working in a team setting.</p>
+      <p className="lead">With a strong foundation in the semiconductor industry, where I spent several years working with chemicals for computer chip manufacturing, I made a pivotal shift into software development to engage more directly with the tech landscape. My background in chemistry equips me with robust technical and analytical skills.</p>
     </div>
   </div>
   <div className="row about-content">
     <div className="col-six tab-full left">
       <h3>Hi There!</h3>
-      <p>With a strong foundation in the semiconductor industry, where I spent several years working with chemicals for computer chip manufacturing, I made a pivotal shift into software development to engage more directly with the tech landscape. My background in chemistry equips me with robust technical and analytical skills.</p>
-
+      
       <p>For the past 2+ years, I’ve been refining my expertise at a media company by contributing to the marketing tech team in building consumer-facing pages.  I thrive in Agile environments, collaborating closely with cross-functional teams to deliver high-quality solutions efficiently. My skill set includes both front-end and back-end development, with proficiency in JavaScript, React, Next.js and Node.js. Additionally, I have hands-on experience with WordPress, Piano (a paywall service), AWS, and CI/CD tools such as Jenkins and Travis, as well as conducting code reviews.</p>
 
       <p>I am passionate about leveraging my diverse background to create innovative and user-centric solutions in the tech industry.</p>
